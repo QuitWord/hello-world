@@ -1,3 +1,7 @@
-# hello-world
-这里是hello-world
-现在开始第一次码字
+＃hello,world!
+#include<stdio.h>
+
+int main()
+{
+  printf("Hello,World!");
+}
